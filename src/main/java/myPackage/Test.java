@@ -10,7 +10,7 @@ public class Test {
 		int c = a+b;
 		
 		System.out.println(c);
-		System.out.println("All done");
+		System.out.println("All set");
 		
 		System.out.println("Changes from another worksace");
 		
